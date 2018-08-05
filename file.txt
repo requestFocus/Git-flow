@@ -4,3 +4,4 @@ wpis 3 - feature branch
 wpis 4 - release branch
 wpis 5 - feature #2
 wpis 6 - release branch #2
+wpis 7 - hotfix
